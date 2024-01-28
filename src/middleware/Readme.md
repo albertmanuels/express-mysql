@@ -1,0 +1,2 @@
+Middleware biasanya digunakan sebagai jembatan untuk menentukan apakah suatu request dari client dapat diproses atau tidak. 
+Bisa dikatakan middleware adalah function untuk melakukan verifikasi request yang masuk dari client ke server

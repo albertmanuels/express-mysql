@@ -1,0 +1,1 @@
+Controller adalah function untuk logic aplikasi

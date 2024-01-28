@@ -1,0 +1,1 @@
+Model adalah function yang berurusan dengan database
